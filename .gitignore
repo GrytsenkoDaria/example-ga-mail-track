@@ -1,4 +1,4 @@
 .idea
 .python-version
 db.sqlite3
-google_analytics_mail/__pycache__/
+*/__pycache__/
