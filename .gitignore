@@ -1,0 +1,4 @@
+.idea
+.python-version
+db.sqlite3
+google_analytics_mail/__pycache__/
