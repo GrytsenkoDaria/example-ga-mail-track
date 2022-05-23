@@ -13,7 +13,8 @@ PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 SECRET_KEY = '2u1%h%aaz)s-m7rrf!p^q2e13gbfuq0ak5%m7k@q+^rr-a4%c*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
+# DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
